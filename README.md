@@ -8,10 +8,10 @@ Learning Repository to conduct analysis and model building.
 
 ## Screen Shots of Web Service
 
-![](ss1.png)
+![](ss1.PNG)
 
-![](ss2.png)
+![](ss2.PNG)
 
-![](ss3.png)
+![](ss3.PNG)
 
-![](ss4.png)
+![](ss4.PNG)
